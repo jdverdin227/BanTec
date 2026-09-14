@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bantec", "Bantec.csproj", "{068E0EE9-2B65-49F8-9899-A982A5996153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068E0EE9-2B65-49F8-9899-A982A5996153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068E0EE9-2B65-49F8-9899-A982A5996153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068E0EE9-2B65-49F8-9899-A982A5996153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068E0EE9-2B65-49F8-9899-A982A5996153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0601C9C5-B8B8-4A6D-9514-A6366C29FF04}
+	EndGlobalSection
+EndGlobal
