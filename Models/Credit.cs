@@ -14,6 +14,6 @@ namespace Bantec.Models
 		public DateTime CutDay { get; set; } = DateTime.Now;
 		public DateTime CreatedAt { get; set; } = DateTime.Now;
 
-		public Status status = Status.Approved;
+		public Status Status { get; set; } = Status.Approved;
 	}
 }
